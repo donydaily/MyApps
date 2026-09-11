@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="app_version">Versi %1$s</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_search">Cari</string>
+    <string name="nav_favorite">Favorit</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <string name="welcome_text">Selamat Datang!</string>
+    <string name="home_card_title">Kabar Beranda #%1$d</string>
+    <string name="home_card_desc">Geser (swipe) layar ke kanan atau kiri untuk pindah antarhalaman secara mulus.</string>
+    
+    <string name="search_placeholder">Cari sesuatu...</string>
+    <string name="search_popular">Pencarian Populer</string>
+    <string name="search_popular_desc">Hasil pencarian tren terbaru akan ditampilkan di sini.</string>
+    
+    <string name="fav_title">Koleksi Favorit Saya</string>
+    <string name="fav_item_title">Item Favorit #%1$d</string>
+    <string name="fav_item_desc">Item yang Anda tandai sebagai favorit disimpan di halaman ini.</string>
+    
+    <string name="profile_info_title">Informasi Akun</string>
+    <string name="profile_info_desc">Member Premium - Status Aktif</string>
+
+    <string name="title_language">Bahasa Aplikasi / Language</string>
+    <string name="lang_system_default">Default Sistem HP</string>
+    <string name="lang_system_default_with_name">Default Sistem HP (%1$s)</string>
+    
+    <string name="title_theme">Mode Tema Sistem</string>
+    <string name="desc_theme">Aplikasi ini otomatis mengikuti pengaturan Light/Dark Mode ponsel Anda.</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="desc_notifications">Kelola pemberitahuan dan koneksi aplikasi.</string>
+    <string name="title_about">Tentang Aplikasi</string>
+</resources>
